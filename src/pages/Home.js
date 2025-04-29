@@ -585,7 +585,7 @@ import "../css/Home.css";
 import { setSearchData } from '../store/travelSearchSlice';
 import v1 from "../videos/v1.mp4";
 import v2 from "../videos/v2.mp4";
-import v3 from "../videos/v3.mp4";
+// import v3 from "../videos/v3.mp4";
 import v4 from "../videos/v4.mp4";
 import v5 from "../videos/v5.mp4";
 import v6 from "../videos/v6.mp4";
@@ -595,7 +595,7 @@ import v8 from "../videos/v8.mp4";
 const travelVideos = [
   { type: "video", url: v1 },
   { type: "video", url: v2 },
-  { type: "video", url: v3 },
+  // { type: "video", url: v3 },
   { type: "video", url: v4 },
   { type: "video", url: v5 },
   { type: "video", url: v6 },
